@@ -1,2 +1,2 @@
-# .github
-Public organization profile repo
+# Holton Lions FC
+We are a youth soccer club.
